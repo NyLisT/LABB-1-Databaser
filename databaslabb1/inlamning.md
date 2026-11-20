@@ -1,5 +1,6 @@
+![img_4.png](img_4.png)
 ![img.png](img.png)
-![img_2.png](img_2.png)
+![img_5.png](img_5.png)
 ![img_3.png](img_3.png)
 
 1. En databas är en samling av information som lagras så att den kan sökas och hanteras. Används mycket inom konton samt
